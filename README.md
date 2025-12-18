@@ -76,7 +76,7 @@
 
 <div align="center">
 
-&nbsp; <img src="https://github-profile-trophy.vercel.app/?username=Harry-dev1805&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+&nbsp; <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harry-dev1805&theme=default" />
 
 </div>
 
