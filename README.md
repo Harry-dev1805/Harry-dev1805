@@ -1,6 +1,6 @@
 <h1 align="center">
 
-&nbsp;   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous\&size=35\&center=true\&vCenter=true\&width=500\&height=70\&duration=4000\&lines=Hi+There!+👋;+I'm+ Harry;" />
+&nbsp;   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+everyone+%F0%9F%91%8B+;I'm+Harry;I'm+developer+back-end" />
 
 </h1>
 
@@ -16,9 +16,9 @@
 
 <div align="center"> 
 
-&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=\[Harry-dev1805]\&show\_icons=true\&theme=tokyonight" height="150" alt="stats graph"  />
+&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=Harry-dev1805&show_icons=true&theme=tokyonight" height="150" alt="stats graph">
 
-&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=\[Harry-dev1805]\&show\_icons=true\&theme=tokyonight\&layout=compact\&hide=html,css,scss" height="150" alt="languages graph" />
+&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-dev1805&show_icons=true&theme=tokyonight&layout=compact&hide=html,css,scss" height="150" alt="languages graph">
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-&nbsp; <img src="https://github-readme-streak-stats-eight.vercel.app?user=\[Harry-dev1805]\&theme=tokyonight\&hide\_border=false" alt="streak graph" />
+&nbsp; <img src="https://github-readme-streak-stats-eight.vercel.app?user=Harry-dev1805&theme=tokyonight&hide_border=false" alt="streak graph">
 
 </div>
 
