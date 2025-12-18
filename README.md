@@ -1,6 +1,6 @@
 <h1 align="center">
 
-&nbsp;   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous\&size=35\&center=true\&vCenter=true\&width=500\&height=70\&duration=4000\&lines=Hi+There!+👋;+I'm+\[Harry]!;" />
+&nbsp;   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous\&size=35\&center=true\&vCenter=true\&width=500\&height=70\&duration=4000\&lines=Hi+There!+👋;+I'm+ Harry;" />
 
 </h1>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-&nbsp; <img src="https://github-profile-trophy.vercel.app/?username=\[Harry-dev1805]\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4" />
+&nbsp; <img src="https://github-profile-trophy.vercel.app/?username=Harry-dev1805&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4" />
 
 </div>
 
